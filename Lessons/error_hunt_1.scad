@@ -2,18 +2,9 @@
 Author: Chris Correll
 Date: 11/3/2021
 Description: Exercise error hunt. Delete the multi line comments that surround the code and see if you can find the errors. Do each exercise one at a time and comment it out and write a comment explaining the errors below it. 
-URL: https://github.com/funkonaut/openSCAD_lessons
 */
 
 $fn=30;
-
-//Example error hunt problem
-cylinder(1,2,3)
-//Example error hunt solution (change the above line to look like this)
-/*
-cylinder(1,2,3);
-*/
-//The error here was that cylinder did not have a semi colon at the end.
 
 //1. There are 2 errors in this code. Find them and fix them!
 /*
