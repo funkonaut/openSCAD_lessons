@@ -1,18 +1,15 @@
+//Author: Chris Correll
+//Date: 11/3/2021
+//Description: Lesson 1.1 Basic 3D shapes Solutions
+
+
 /*
-Author: Chris Correll
-Date: 11/3/2021
-Description: Lesson 1.1 Chapter 1. Basic 3D shapes
+Have student review terminology.txt for list of terminology before class. 
+Review XYZ coordinate system and different windows: preview and editor. 
 */
 
 /*
-Have student read terminology.txt for list of terminology before class. 
-
-Explain XYZ coordinate system and different windows: preview and editor. 
-Explain // is a comment anything that comes after it the computer does not read as code
-*/
-
-/*
-Create your first shape
+Create your more shapes
 Explain two parts of shape. Parameters define. ; needed
 F5 to preview shape. 
 
@@ -43,7 +40,7 @@ cylinder(h=20,r=5); //another way to make a cylinder
 //Pracitce solution
 //Make an airpod (letter p)  
 cylinder(h=5,r=2);
-cube([2,5,5]);
+sphere(r=1);
 //Notice how the radius and cube width are the same so they line up
 //Notice how the depth is the stem of the p 
 

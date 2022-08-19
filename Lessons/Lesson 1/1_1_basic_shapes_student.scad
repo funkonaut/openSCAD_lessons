@@ -1,6 +1,6 @@
 //Author: 
 //Date: 
-//Description: Lesson 1.1 Chapter 1. Basic 3D shapes
+//Description: Lesson 1.1 Basic 3D shapes
 
 
 //Make a cube!
