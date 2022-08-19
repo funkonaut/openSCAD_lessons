@@ -56,6 +56,10 @@ Rendering
 Exporting to stl etc.
 */
 
+
+/*
+Fn and resolution
+*/
 cube([1,1,1]);
 
 
