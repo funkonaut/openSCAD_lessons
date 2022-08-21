@@ -66,4 +66,4 @@ cube([1,1,1]);
 
 //Make a larger cube render it, export it as an stl email it to me
 //Talk about scaling have braille rulers show students 
-cube([10,10,10])      
+cube([10,10,10]);    
