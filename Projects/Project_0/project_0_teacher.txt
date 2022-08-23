@@ -1,0 +1,22 @@
+Project 0 Teacher
+Author: Chris Correll
+Date: 8/21/2022
+Description: 
+- Project 0 using measuring tools and becoming acquanted with technical documentation
+- Scaffolds project 1 which is measuring and developing a backing for the command stip tactile floor marker 
+
+Object Notes
+Description: The following object is the first iteration of a tactile floor marker for use with command strip velcro it is rectangular in shape. 
+Material: It is made out of PLA  
+
+Measurements
+Desired X length =  70
+Desired Y length = 16
+Desired Z length = 5
+Measured X length = 
+Measured Y length =
+Measured Z length =
+
+Reflections
+- Resolution of calipers effect measruements
+- Shrinking of 3d printed objects effect measurements
