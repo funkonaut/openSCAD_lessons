@@ -11,6 +11,7 @@ Functional Requirements:
 - Fits the width of a velcro command strip
 - Marker does not impede travel of people or furniture
 - Marker does not break if furniture rolls over it
+- Marker is reusable and can be easily re-placed
 
 Deliverables:
 - Technical documentation, this will be modeled after the project_0_student file

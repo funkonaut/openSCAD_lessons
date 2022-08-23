@@ -92,7 +92,7 @@ Key concepts will build on each other and be used throughout the course.
 - Measuring with a tape measure
 - Internet navigation
 
-### Project 4 joints
+### Project 4 Joints
 - Laser cutting
 - Projection command in openSCAD
 
