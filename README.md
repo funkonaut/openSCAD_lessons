@@ -61,7 +61,7 @@ Key concepts will build on each other and be used throughout the course.
 - 2D shapes and Extrusions
 
 ### Semester 2 
-#### OpenSCAD Intermediate Concepts
+#### OpenSCAD Intermediate Concepts and Python Basic Concepts
 - Loops
 - Variables (cont.)
 - Arithmetic operations
@@ -86,9 +86,10 @@ Key concepts will build on each other and be used throughout the course.
 - Using Boolean functions and transformations
 - Making smaller models to test things 
 - Scaffolding joints project
+- Using variables
 
 ### Project 3 Laser cut storage
-- Laser cuttint
+- Laser cutting
 - Measuring with a tape measure
 - Internet navigation
 
