@@ -53,5 +53,14 @@ Solutions below:
 
 //Practice 
 //Make a mickey mouse shape
+cylinder(h=1, r= 3, center=true);
+translate([-2,2,0])
+cylinder(h=1, r= 2, center=true);
+translate([2,2,0])
+cylinder(h=1, r= 2, center=true);
 
 //Make a yo-yo
+translate([0,0,-2])
+cylinder(h=20, r1 = 20, r2 = 0, center=true);
+translate([0,0,2])
+cylinder(h=20, r1= 0, r2 = 20, center=true);

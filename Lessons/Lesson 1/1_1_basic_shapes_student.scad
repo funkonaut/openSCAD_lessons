@@ -12,6 +12,6 @@
 //Make a cone!
 
 //Practice: 
-//Hints: 
-//Make an airpod (letter p)  
-//Make a tear drop 
+//Make a stair step 
+
+//Make a top

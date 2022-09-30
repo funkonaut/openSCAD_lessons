@@ -3,7 +3,7 @@
 //Description: Lesson 1.2 Chapter 1. Basic 3D shape modifications.
 
 
-//Make a cube!
+//Make a cube center it!
 
 //Move it to the first octant.
 

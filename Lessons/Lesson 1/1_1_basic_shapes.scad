@@ -14,6 +14,10 @@ Explain two parts of shape. Parameters define. ; needed
 F5 to preview shape. 
 
 */
+//Resolution 40 is good enough for most cases
+$fn = 40;
+
+//Help Cheat sheet alt - h - c
 //Cube
 //Notice how shape corner is at (0,0,0) or the origin. Change the numbers in the [] see how it grows or shrinks.
 cube([5,10,20]);
@@ -38,19 +42,14 @@ cylinder(h=20,r=5); //another way to make a cylinder
 //import("file_name.stl"); // this will import an stl make sure you save in the same directory as OpenSCAD program
 
 //Pracitce solution
-//Make an airpod (letter p)  
-cylinder(h=5,r=2);
-sphere(r=1);
-//Notice how the radius and cube width are the same so they line up
-//Notice how the depth is the stem of the p 
-
-//Make a tear drop
-cylinder(h=5,r=2);
-cube([2,2,5]);
-//Notice how the width and depth are the same as the radius
-//could also do something like this
-sphere(3);
-cylinder(6,3,0);
+//Make a top maybe not the best practice problem...
+cylinder(r1=.3,r2=5,h=3);
+cylinder(r=.3,h=6);
+//Make a stair step 
+//cube([4,5,1]);
+//cube([3,5,2]);
+//cube([2,5,3]);
+//cube([1,5,4]);
 
 /*
 Check for understanding
