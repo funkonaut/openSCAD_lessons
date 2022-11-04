@@ -5,9 +5,13 @@
 
 //Make a cube!
 
+//Make a centered cube!
+
 //Make a sphere!
 
 //Make a cylinder!
+
+//Make a centered cylinder!
 
 //Make a cone!
 

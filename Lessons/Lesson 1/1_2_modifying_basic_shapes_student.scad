@@ -3,17 +3,17 @@
 //Description: Lesson 1.2 Chapter 1. Basic 3D shape modifications.
 
 
-//Make a cube center it!
+//Make a centered cube!
 
-//Move it to the first octant.
+//Move it completely to the first octant.
 
-//Make a round cylinder!
+//Make a centered cylinder!
 
-//Move it to the third octant.
+//Move it completely to the third octant.
 
-//Make a cone!
+//Make a centered cone!
 
-//Move it to the seventh octant.
+//Move it completely to the seventh octant.
 
 //Practice: 
 //Make a mickey mouse shape

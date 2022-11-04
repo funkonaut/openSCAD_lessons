@@ -24,3 +24,6 @@ Reflections Example (Do not just feel in the blanks here... write your own thoug
 - What did you try and what worked and did not work
 - What could you have done better
 I could have done ___ better after testing against the functional requirements I noticed ____ and that I should have changed _____ in my design. Next time I would do ____ and ___
+
+File names for photos of final prototype:
+22-10-1_project1_final_prototype.jpg

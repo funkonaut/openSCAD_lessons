@@ -24,7 +24,11 @@ ALT will focus the menu bar
 You can use first letter navigation to get to things quickly i.e. the layered key stroke ALT > w > e will bring you to the 
 */
  
-//Your first shape
+//Your first shape preview it and then try the below preview keyboard commands
 cube([1,1,1]);
 
-//TO DO: Make a larger cube render it, export it as an stl, and email it to fablab@tsbvi.edu
+//You can fit the shape to the whole preview window with the command control + shift + v (alt > v > view all)
+//You can change the view projection using ctrl + 4 through 9
+//Once completed comment out the code with a single line comment
+
+//TO DO: Make a larger cube render it, export it as an stl, and email it to the teacher

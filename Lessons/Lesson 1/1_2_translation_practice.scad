@@ -14,14 +14,14 @@ Notes:
 8th octant: +X -Y -Z
 */
 
-//#1 Move a cube so that it is completely in the first octant
+//#1 Move a centered cube so that it is completely in the first octant
 
-//#2 Move a cube so that it is completely in the second octant
+//#2 Move a centered cube so that it is completely in the second octant
 
-//#3 Move a cylinder so that it is completely in the fourth octant
+//#3 Move a centered cylinder so that it is completely in the fourth octant
 
-//#4 Move a sphere so that it is completely in the fifth octant
+//#4 Move a centered sphere so that it is completely in the fifth octant
 
-//#5 Move a cone so that it is completely in the eighth octant
+//#5 Move a centered cone so that it is completely in the eighth octant
 
 
