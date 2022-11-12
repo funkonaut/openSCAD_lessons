@@ -14,7 +14,7 @@ OpenSCAD based intro to coding curriculum for visually impaired and blind studen
   - Wicki stix
   - Embossing wheel
 
-** Class notes/sequence**
+**Class notes/sequence**
 *If you are a teacher clone this repo, if you are a student taking this class, congrats, you found the solutions, but remember you are only cheating yourself if you do not attempt problems independently, and there are not posted project solutions...*. This repo has all of the information (lessons, models, assignments) you need to teach the course. You can find code for students in the [lessons](./lessons) folder, here you will also find a teacher lesson (does not have "_student" suffix) that will have all the important information to lecture about during class and practice problem solutions. This should go without saying... but... *Do the lesson and practice problems yourself before teaching it." There is also a subfolder named "materials" which has a suggested sequence and over view of each sub lesson in a markdown document. Lessons are roughly one month in length, depending on the level of your students. A double block (1hr and 15m) class time is suggested. Teacher should have students mirror the folder and file structure of this github repo to help organize their work on their local computer. Cloud based storage such as google drive or drop box can be used but it is suggested that the files are accessible locally (either through drive for desktop or dropbox for desktop) as students will be running openSCAD locally. A class room entry routine could be:
 1. Teachers send email with attached lesson code or instructions night before or day of class 
 2. Students come into class on time and login to computer, open email and complete directions, downloading any attachments and placing them in the correct folder(s).
@@ -73,19 +73,25 @@ Key concepts will build on each other and be used throughout the course.
 - 3D printing and laser cutting basic skills
 
 #### Programming basic concepts (OpenSCAD)
-- Basic primitives and manipulations
-- Parameters (lists) and variables
-- Boolean Expressions
-- Transformations
-- 2D shapes and Extrusions
+- Basic primitives and transformations
+- Parameters (lists) 
+- Variables and parameterization
+- Boolean operations
+- Modules and functions
 
 ### Semester 2 
-#### OpenSCAD Intermediate Concepts and Python Basic Concepts
+#### OpenSCAD Intermediate Concepts
+- Extrusions 
 - Loops
-- Variables (cont.)
-- Arithmetic operations
-- Modules (functions)
+- External libraries
+- Variables and parameterization (continued)
 - Conditional statements (if else)
+
+### Bonus
+- Macros
+- Command line/ basic Linux commands
+- VSCode development
+- Python (openSCAD package)
 
 ## Projects
 ### Project 0 Your First 3D Print
@@ -122,3 +128,8 @@ Key concepts will build on each other and be used throughout the course.
 - Laser cutting
 - Projection command in openSCAD
 
+
+## Interesting References
+[OpenSCAD user manual](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual)
+[OpenSCAD video tutorials](https://www.youtube.com/playlist?list=PLP1VMsgQcRUmC1jJhZrTId9rvjQ1m2FBH)
+[Geometry and OpenSCAD for VI studnets](http://www.nonscriptum.com/geometry)

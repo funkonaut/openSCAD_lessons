@@ -4,10 +4,6 @@
 
 $fn = 40;
 unit = 12.5; //one graph board square
-wall_thickness = .5;
-brim_thickness = 3;
-brim_z = 1;
-cut_thick = .2;
 e = .1; //error term to elongate cut throughs for rounds and cubes and previewing
 
 module mold_cube(w,l,h){
@@ -66,7 +62,52 @@ translate([0,-((d*unit+brim_thickness*2)/2-(wall_thickness+brim_thickness+d*unit
 }
 
 //import("Rectangle.stl",convexity=3); //check out the thingiverse model...
-//mold_hemisphere(5);
-mold_cylinder(1,1);
-//mold_cube(1,4,1);
-//mold_cube(2,8,.75);
+
+//Cubes
+/*
+wall_thickness = .75;
+brim_thickness = 3;
+brim_z = 1;
+cut_thick = .2;
+//mold_cube(1,1,1); //1*1*1
+//mold_cube(1,2,1); //1*2*1
+//mold_cube(1,4,1); //1*4*1
+//mold_cube(2,2,1); //2*2*1
+//mold_cube(2,4,1); //2*4*1
+//mold_cube(4,4,1); //4*4*1
+
+//mold_cube(1,1,2); //1*1*2
+//mold_cube(1,2,2); //1*2*2
+//mold_cube(1,4,2); //1*4*2
+//mold_cube(2,2,2); //2*2*2
+//mold_cube(2,4,2); //2*4*2
+//mold_cube(4,4,2); //4*4*2
+*/
+
+//Cylinders
+/*
+wall_thickness = .75;
+brim_thickness = 3;
+brim_z = 1;
+cut_thick = .2;
+
+//mold_cylinder(1,1);
+//mold_cylinder(2,1);
+//mold_cylinder(4,1);
+
+//mold_cylinder(1,2);
+//mold_cylinder(2,2);
+//mold_cylinder(4,2);
+*/
+
+//Hemispheres
+/*
+wall_thickness = .75;
+brim_thickness = 0;
+brim_z = 0;
+cut_thick = .2;
+
+//mold_hemisphere(1);
+//mold_hemisphere(2);
+//mold_hemisphere(4);
+*/

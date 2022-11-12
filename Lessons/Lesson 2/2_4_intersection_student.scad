@@ -8,10 +8,10 @@ sphere(5);
 cube([10, 10, 10]);
 }
 
-//1. Take the intersection of a sphere and a cube so that a quarter of the sphere reamin in octant 2
+//1. Take the intersection of a sphere and a cube so that a quarter of the sphere remains in octant 2
 
-//2. Using intersection make a quarter of a cirlce (cylinder) in the first octant
+//2. Using intersection make a quarter of a circle (cylinder) in the first octant
 
-//3. Using intersection make a half of a cirlce (cylinder) in the first and second octants
+//3. Using intersection make a half of a circle (cylinder) in the first and second octants
 
-//4. Using intersection make two quarters of a cirlce (cylinder) in adjacent octants (i.e. 1 and 3)
+//4. Using intersection make two quarters of a circle (cylinder) in adjacent octants (i.e. 1 and 3)

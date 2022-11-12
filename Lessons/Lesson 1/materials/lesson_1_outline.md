@@ -44,10 +44,10 @@
   - cones
   
 ### Check for understanding
--What are parameters?
--Where are each shapes centered
--How do you make a pointed cone facing down?
--Practice problems
+- What are parameters?
+- Where are each shapes centered
+- How do you make a pointed cone facing down?
+- Practice problems
 
 ## Project 0 Your First 3D Print
 ### Materials
@@ -79,7 +79,6 @@ The next steps are optional but highly suggested to improve studnets indepednenc
 7. Reflect on the 3D printed object with students did it turn out how they expected does it measure the same as the parameters they coded? Were their any issues with teh print process? Have them write their reflections in their technical documentation.
 
 ## 1_2 Basic Shape Modifications: Translations
-2 Class periods
 ### Materials
 - computer with openSCAD installed
 - 3D printed primatives
@@ -135,7 +134,7 @@ The next steps are optional but highly suggested to improve studnets indepednenc
 - Testing multiple iterations
 
 ### Sequence
-* Project should take around 2 weeks *
+*Project should take around 2 weeks*
 1. Have student read the design briefing.
 2. Have students sketch out some ideas and take measurements.
 3. Have students pick the idea they would like to implement and begin programming it.
