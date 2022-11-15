@@ -5,9 +5,8 @@ OpenSCAD based intro to coding curriculum for visually impaired and blind studen
 **Its helpful to have the following materials and tools, you will need to access to a 3D printer**
 - braille or bluetooth callipers
 - braille/large print ruler
-- speaking tape measure in mm
-- 3D printer and raspberry pi for wireless printing
-- APH graph board
+- 3D printer and raspberry pi installed with Octoprint for wireless printing
+- APH graph board or geoboard
 - Playdoh
 - On the fly tactile graphics tools
   - APH tactile drawing board or draftsmen 
@@ -112,19 +111,19 @@ Key concepts will build on each other and be used throughout the course.
 - Parameterize your code
 - Bonus if someone brings you a design problem
 
-### Project 2 Holes and pins 
+### Project 3 Holes and pins 
 - 3D printing
 - Using Boolean functions and transformations
 - Making smaller models to test things 
 - Scaffolding joints project
 - Using variables
 
-### Project 3 Laser cut storage
+### Project 4 Laser cut storage
 - Laser cutting
 - Measuring with a tape measure
 - Internet navigation
 
-### Project 4 Joints
+### Project 5 Joints
 - Laser cutting
 - Projection command in openSCAD
 
