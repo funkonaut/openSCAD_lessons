@@ -15,3 +15,5 @@ cube([10, 10, 10]);
 //3. Using intersection make a half of a circle (cylinder) in the first and second octants
 
 //4. Using intersection make two quarters of a circle (cylinder) in adjacent octants (i.e. 1 and 3)
+
+//Bonus: Make a dice

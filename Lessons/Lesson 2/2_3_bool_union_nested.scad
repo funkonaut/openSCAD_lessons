@@ -50,9 +50,10 @@ difference(){
 */
 
 //Make a 2 by 2 square lego brick
+/*
 $fn = 40;
-brick_size = 80;
-brick_h = 20; //brick h is actually brick base height and add (brick_h/3)/2 to get actual brick height as nubs are offset byhalf and are brick_h/2 tall
+brick_size = 15.8;
+brick_h = 9.6; //brick h is actually brick base height and add (brick_h/3)/2 to get actual brick height as nubs are offset byhalf and are brick_h/2 tall
 
 difference(){
   //brick top
@@ -85,3 +86,4 @@ difference(){
 
 //Bonus Parameterize your lego or ice cream cone!
 
+*/

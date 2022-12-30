@@ -1,37 +1,40 @@
-# Lesson 2 Outline
+# Lesson 3 Outline
 
-## 2_0 Variables
+## 3_0 Transformations Continued
 ### Materials
 ### Objectives
+- rotation
+- mirror
+- scale/resize and import?
 ### Sequence
 ### Check for understanding
 
-## 2_1 Basic Parameterization
+## 3_1 Modules 
 ### Materials
 ### Objectives
+- module
+- local vs global variables
 ### Sequence
 ### Check for understanding
 
-## 2_2 Combining Shapes with Booleans: Difference 
+## 3_2 2D shapes
 ### Materials
 ### Objectives
+- circle, square, text
+- svg export
 ### Sequence
 ### Check for understanding
 
-## 2_3 Combining Shapes with Booleans: Union and Nesting Booleans
+## 3_3 Extrusions and Projections
 ### Materials
 ### Objectives
+- linear_extrude
+- projection w/ w/o cut
+- rotate_extrude?
 ### Sequence
 ### Check for understanding
 
-## 2_4 Combining Shapes with Booleans: Intersection
-### Materials
-### Objectives
-### Sequence
-### Check for understanding
-
-
-## Project 2 Copy an Object
+## Project # TITLE
 ### Materials
 -
 ### Objectives
@@ -39,6 +42,3 @@
 ### Sequence
 *Project should take around 2 weeks*
 1. 
-
-
-## Bonus Markdown Error Hunt

@@ -71,20 +71,21 @@ Key concepts will build on each other and be used throughout the course.
 - Technical note taking and documentation
 - 3D printing and laser cutting basic skills
 
-#### Programming basic concepts (OpenSCAD)
+#### OpenSCAD Basic Concepts
 - Basic primitives and transformations
 - Parameters (lists) 
 - Variables and parameterization
 - Boolean operations
-- Modules and functions
+- Modules
 
 ### Semester 2 
 #### OpenSCAD Intermediate Concepts
 - Extrusions 
 - Loops
+- Conditional statements (if else)
 - External libraries
 - Variables and parameterization (continued)
-- Conditional statements (if else)
+
 
 ### Bonus
 - Macros

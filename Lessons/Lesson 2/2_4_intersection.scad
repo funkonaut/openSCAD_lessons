@@ -22,7 +22,7 @@ intersection() {
 }
 */
 
-//2. Using intersection make a quarter of a cirlce (cylinder) in the first octant
+//2. Using intersection make a quarter of a circle (cylinder) in the first octant
 /*
 intersection() {
   cylinder(r=5,h=5,center=true);
@@ -30,7 +30,7 @@ intersection() {
 }
 */
 
-//3. Using intersection make a half of a cirlce (cylinder) in the first and second octants
+//3. Using intersection make a half of a circle (cylinder) in the first and second octants
 /*
 intersection() {
   cylinder(r=5,h=5,center=true);
@@ -49,4 +49,14 @@ intersection() {
     cube([10, 10, 10]);
   }
 }
+*/
+
+//Intersections are useful to make rounded corners try intersecting an overlapping cube and sphere
+
+// Bonus: Make a dice
+/*
+intersection(){
+  cube(20,center=true);
+  sphere(14);
+} 
 */

@@ -48,10 +48,10 @@ difference() {
 
 //Make a box without a lid
 /*
-h = 19;
-w = 38;
-l = 57;
-t = 1;
+h = 10;
+w = 20;
+l = 30;
+t = 2;
 difference() {
   cube([l,w,h],center = true);
   translate([0,0,t])
@@ -61,8 +61,8 @@ difference() {
 
 //Make a cup
 /*
-h = 90;
-d = 45;
+h = 50;
+d = 40;
 t = 2;
 difference() {
   cylinder(h = h,d = d,center = true);

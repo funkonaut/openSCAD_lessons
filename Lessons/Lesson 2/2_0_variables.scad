@@ -1,6 +1,6 @@
 //Author: Chris Correll
 //Date: 9/13/2022
-//Description: Lesson 2.1 Variables and Parametric Programming Teacher 
+//Description: Lesson 2.0 Variables and Parametric Programming Teacher 
 
 //This is a variable it has two components, a name, var, and an assignment of value, 10, variables can not have spaces and must start with letters
 var = 10;
