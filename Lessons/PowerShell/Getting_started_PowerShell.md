@@ -139,7 +139,8 @@ echo blah | clip
 ### Aliases (NOT SAME AS LINUX?)
 
 ### Running Apps
-# zip and compression?
+# zip and compression? (NOT SAME AS LINUX: unzip)
+[Expand-Archive](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.archive/Expand-Archive?view=powershell-7.3&viewFallbackFrom=powershell-6) 
 
 ### Important Notes: **Command-line Environment**, **Environment Variables**, and the **PATH Variable** 
 When you launch a PowerShell you will automatically be logged in with the current user account you are logged into. The environment refers to the settings and preferences of the current user. You can change these settings by editing variables these are called **environment variables**. The most useful of these (for us atleast) is the PATH variable. The PATH variable tells the command-line where to look for your apps. It is a collection of folder paths that hold the CLI apps you wand to run. Its is essentially a shortcut so we wont have to type out the path to the CLI application every time we want to run it. 
@@ -161,6 +162,7 @@ This permanently adds what ever you type for {FOLDER PATH} into your system envi
 4. alt + y to select yes
 
 
+## Package Managers?
 
 ## Other Shells and Alternative Usage 
 There are many ways to use PowerShell, for this tutorial we foucesd, on some of the simplest (and most easily extendable) ways  to get you going. Most of the PowerShell commands we have covered are not actually Powershell commands but (linux-flavored aliases)[https://learn.microsoft.com/en-us/powershell/scripting/learn/shell/using-aliases?view=powershell-7.3] for PowerShell commands. That way the concepts and commands are very easily extendable to other shell environemnts such as the Linux shell (WSL, or Windows Subsystem for Linux).

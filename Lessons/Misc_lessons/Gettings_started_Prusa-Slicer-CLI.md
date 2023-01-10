@@ -9,12 +9,11 @@
 - [Download Prusa Slicer](https://www.prusa3d.com/page/prusaslicer_424/)
 
 ### Windows Install
-
 These steps will allow you to run the Prusa-Slicer program from anywhere and not just in the program folder. You will add the prusa-slicer-console.exe to your system environment variables PATH variable 
 1. Open powershell (as admin)
 2. *If you do have admin access* Run powershell as admin and type `[Environment]::SetEnvironmentVariable("Path", $env:Path + ";C:\Program Files\Prusa3D\PrusaSlicer", "Machine")` replace `C:\Program Files\Prusa3D\PrusaSlicer` with whatever the path to your slic3r program folder is
 3. *If you do not have admin access* You can check out [this article about customizing your shell profile](https://www.howtogeek.com/50236/customizing-your-powershell-profile/) and [this stack overflow answer](https://stackoverflow.com/questions/714877/setting-windows-powershell-environment-variables)
-4. Test and make sure it worked by running powershell and typing `pru` and pressing tab a couple times it should autocomplete to `prusa-slicer-console.exe` and then add the help flag the whole command should read `prusa-slicer-console.exe --help` and will output a whole lot of text you can output it to a text file (ie: `prusa-slicer-console.exe --help > prusa-slicer_help.txt` if you are interested in reading it or [visit the slic3r documentation page on using the command line tools](https://manual.slic3r.org/advanced/command-line)
+4. Test and make sure it worked by running powershell and typing `pru` and pressing tab a couple times it should autocomplete to `prusa-slicer-console.exe` and then add the help flag the whole command should read `prusa-slicer-console.exe -h` and will output a whole lot of text you can output it to a text file (ie: `prusa-slicer-console.exe --help > prusa-slicer_help.txt` if you are interested in reading it or [visit the slic3r documentation page on using the command line tools](https://manual.slic3r.org/advanced/command-line)
 *Note:The prusa-slicer-console exe is the one you want for command line commands the other slicer exe files are not for command line usage, and will most likely launch the less than accessible GUI program*
 
 ## Using Prusa Slicer CLI
