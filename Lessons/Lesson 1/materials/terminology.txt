@@ -12,3 +12,4 @@ Height - The dimension associated with the z-axis, which is the “updown” ax
 2D shapes - Shapes with a width and length, but no height.
 3D shapes - Shapes with a width, length, and height
 Comment - A piece of code that does not execute it is preceded with // or for a multiline comment any text between /* and */
+Syntax -  the specific set of words and symbols and the specific order to those words and symbols when we give the computer instructions. In other words how a programming language is spelled and formatted.

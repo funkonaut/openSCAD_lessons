@@ -10,7 +10,7 @@ Review XYZ coordinate system and different windows: preview and editor.
 
 /*
 Create  more shapes
-Explain two parts of shape. Parameters define shape. ; always needed for shapes
+Explain two parts of shape command. Parameters define shape. ; always needed for shapes
 You can have any amount of space in the code since all shape commands end with a semi-colon
 F5 to preview shape. 
 
