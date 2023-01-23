@@ -4,7 +4,7 @@
 
 /*
 Explain what openSCAD is, have student read the terminology text file
-*/
+*/  
 
 /*
 Explain what a comment is: computer ignores code that follows on the same line as a single line comment or is in a comment block
