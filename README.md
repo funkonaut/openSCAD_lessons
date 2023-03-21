@@ -3,7 +3,10 @@ OpenSCAD based intro to coding curriculum for visually impaired and blind studen
 
 ## Important Notes
 **Its helpful to have the following materials and tools, you will need to access to a 3D printer**
-- braille or bluetooth callipers
+- braille or bluetooth calipers 
+  - [Imperial tactile calipers](https://www.nbp.org/ic/nbp/CALIPER.html)
+  - [Metric tactile calipers](https://tactilevisiongraphics.com/product/metric-braille-caliper/)
+  - [Bluetooth calipers (work okay with VoiceOver)](https://www.amazon.com/iGaging-Electronic-Absolute-Bluetooth-Connectivity/dp/B0716B8Q99/ref=sr_1_1?keywords=bluetooth%2Bcaliper&qid=1638566825&sr=8-1&th=1) 
 - braille/large print ruler
 - 3D printer and raspberry pi installed with Octoprint for wireless printing
 - APH graph board or geoboard
@@ -77,10 +80,11 @@ Key concepts will build on each other and be used throughout the course.
 - Variables and parameterization
 - Boolean operations
 - Modules
+- More transformation
 
 ### Semester 2 
 #### OpenSCAD Intermediate Concepts
-- Extrusions 
+- Extrusions and 2D Vector Design
 - Loops
 - Conditional statements (if else)
 - External libraries

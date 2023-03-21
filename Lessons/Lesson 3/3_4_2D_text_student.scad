@@ -1,6 +1,6 @@
 //Author: 
 //Date: 
-//Description: Lesson 3-3 2D Design in OpenSCAD: The Square and Circle Primitives and Booleans and Transfromations
+//Description: Lesson 3-4 2D Design in OpenSCAD: The Text Primitive
 
 //Another primitive we are going to learn about is the text primitive.
 //The text primitive allows you to easily make 2D text in OpenSCAD
@@ -8,6 +8,8 @@
 //The text primitive first and only required parameter is an input string parameter. This means its surrounded
 // in quotes. Try it out by uncommenting the code below
 //text("hello world");
+
+//Try changing the input string to your name!
 
 //The text primitive also can take in a size parameter. 
 //The size is the height of the tallest letter. Try adding a size parameter
@@ -21,6 +23,8 @@
 //Uncomment the code below and notice how our text changes.
 //text("hello", size=20, font="agency fb");
 
+//Try changing the font using one of your fonts in the font list
+
 //Text can also have alignment parameters, halign and valign. These are kind of like the 
 //center flag for other primitives, but uses different string values. 
 //For halign the values you can set it equal to  "left", "center" or "right" 
@@ -31,6 +35,7 @@
 //text("hello", size=20, halign="center", valign="center");
 
 //Try changing some of the values of halign and valign to see where your text goes!
+//Notice how when you change the size the text stays aligned!
 
 //The final parameter we will learn about for the text primitive is the direction parameter.
 //The direction parameters specificies the direction of the text flow. 
@@ -60,3 +65,4 @@ difference(){
 //2. Make a 2D keychain with verticle oriented text (reading from top to bottom).
 //3. (Bonus) Parameterize your keychain so you can adjust the width and height of it 
 //and the font will change accordingly! 
+//4. (Bonus) Make a cross word puzzle key chain with atleast 5 words!

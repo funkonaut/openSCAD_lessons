@@ -19,6 +19,8 @@ module my_first_module_name(an_arguments, like_size, etc){
 //Un comment the code below and check it out
 //my_first_module_name(1,1,1);
 
+//Argument numbers matter! dont have 3 number ppl making mistake
+
 //IMPORTNAT NOTE: If you do not include the correct arguments when you call your module you will receive a warning.
 //For this reason always make sure to check that the arguments in your module definition agree with the ones that you use to call the module
 //You can always check the error log (alt > w > l) and tab around to hear the warnings info and find out what is wrong.
@@ -30,5 +32,5 @@ module my_first_module_name(an_arguments, like_size, etc){
 //Practice Problems
 //1. Create and call a module that makes a cylinder with arguments h for height and w for width. Translate your shape any direction(s) after calling it.
 //2. Create and call a module that makes a cone with arguments for the cones width and height. Translate your shape  any directions(s) after calling it.
-//3. Create and call a module that makes a cube with a whole in it with arguemnts for the hole width and the cube size.
+//3. Create and call a bead module with arguemnts for the hole width and the cube size.
 //4. Make a soda can module

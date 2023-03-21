@@ -10,12 +10,12 @@ $fn = 40;
 //There are four main primitives for 2D design in OpenSCAD. In this lesson we will cover all four.
 //Our first 2D primitive is the square. Just like its 3D counterpart the cube, the square in OpenSCAD is 
 //not the same as the mathematical definition of a square.
-square(10);
+//square(10);
 
 //We also have a center flag for square. Center the above square.
 
 //We can also define a square with a width and a height vector. Uncomment the code below and check it out.
-//square([5,20],center=true) 
+//square([5,20],center=true); 
 
 //Now your turn make a square that is 2 by 10 in size. Preview it (f5), render it (f6).
 
@@ -42,8 +42,53 @@ difference(){
 */
 //Try modifying the above code to make a "wonky wheel" by moving the mounting hole slighly off center.
 
-//Practice Problems (bonus points if you use variables!)
+//Practice Problems
 //1. Make a wheel with a square axis hole
+/*
+wheel_size = 10;
+axis_size = 1;
+difference(){
+ circle(d=wheel_size);
+ square(axis_size,center=true);
+}
+*/
+
 //2. Make a picture frame 
+/*
+frame_size = 50;
+border_w = 10;
+difference(){
+ square(frame_size,center=true);
+ square(frame_size-border_w*2,center=true);
+}
+*/
+
 //3. Make a 4 by 4 grid of wheels
+/*
+wheel_size = 10;
+axis_size = 1;
+offset = 2;
+for(x = [1:4]){
+ for(y = [1:4]){
+  translate([(wheel_size+offset)*x,(wheel_size+offset)*y,0])
+  difference(){
+   circle(d=wheel_size);
+   square(axis_size,center=true);
+  }
+ }
+}
+*/
 //4. Make a picture frame with a mounting hole.
+/*
+frame_size = 50;
+border_w = 10;
+hole_size = 2;
+difference(){
+ difference(){
+  square(frame_size,center=true);
+  square(frame_size-border_w*2,center=true);
+ }
+ translate([0,frame_size/2-border_w/2,0])
+ circle(hole_size);
+}
+*/

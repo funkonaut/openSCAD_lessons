@@ -131,10 +131,13 @@ Get drive names and data used and free, recommend output to txt file
 #### |
 #### text editing   
 notepad.exe
+### & to open (the call operator non-linux ./ similar open on mac)
 
 $null > filename.txt or command > $null nothing output
 echo > 
 echo blah | clip
+
+#### exit 
 
 ### Aliases (NOT SAME AS LINUX?)
 
