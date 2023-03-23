@@ -1,15 +1,23 @@
-# Lesson # Outline
+# Project Title
 
-## # TITLE
-### Materials
-### Sequence
-### Check for understanding
+## Briefing
+150 word description of project
 
-## Project # TITLE
-### Materials
--
-### Objectives
+## Constraints: *Scaffold as necessary*
 - 
-### Sequence
-*Project should take around 2 weeks*
-1. 
+
+## Functional Requirements: *Scaffold as necessary*
+- 
+
+## Deliverables (via email and physically turn in 3D print)
+- Technical documentation including:
+  - Notes on functional requirements from stake holder meetings
+  - Construction/ printing notes
+  - Photos of the final prototype
+  - Sign off by the stake holder on final prototype
+- .scad code file for your object and .stl rendered file 
+
+## Suggested Timeline and Milestones
+
+## Rubric
+Projects are graded on a 0 to 9 point scale as determined by the class project rubric.
