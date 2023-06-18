@@ -2,15 +2,17 @@
 <br><br>
 
 ## Briefing:
+Make three die. Bonus points if they are different in more than 3 ways.
 <br><br>
 
 ## Constraints: 
 - Your prototype must incorporate a 3D printed piece designed in openSCAD
-- Your prototype and project are due in _____ weeks
+- Your prototype and project are due in 2 weeks
+- Each die must be unique
 <br><br>
 
 ## Functional Requirements:
--  
+- Dice will not break when thrown
 <br><br>
 
 ## Deliverables (via email and physically turn in 3D print):
