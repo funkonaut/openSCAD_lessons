@@ -1,6 +1,6 @@
-//Author: Chris Correll
-//Date: 10/13/2022
-//Description: Lesson 2-2 Combing shapes with booleans differences
+//Author: 
+//Date: 
+//Description: Combing shapes with booleans differences
 
 $fn = 40; 
 
