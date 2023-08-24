@@ -7,7 +7,7 @@ For this project, students will be identifying a real-life problem encountered b
 
 ## Modifications: 
 - Students can browse models to determine problems to solve
-- Students can work with external stake holders to sovle problems for others
+- Students can work with external stake holders to solve problems for others
 - Students can be given a specific problem to solve
 <br><br>
 

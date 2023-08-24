@@ -20,3 +20,6 @@ Make three die. Bonus points if they are different in more than 3 ways.
 - .scad code file for your object
 <br><br>
 
+## Rubric:
+Projects are graded on a 0 to 9 point scale. Grading will be based on how well your prototype meets the identified problem, the effectiveness of the solution, the complexity and originality of the design, and the quality of your documentation.
+
