@@ -1,17 +1,19 @@
 # Project X.X: Exploring Slicing Settings for Textured 3D Prints
 
 ## Briefing:
-Welcome to Project X.X, where you will embark on an exciting journey to explore the world of 3D printing and slicing settings. Your task is to create a series of 3D printed prototypes, each demonstrating a unique texture or finish achieved through meticulous adjustment of slicing parameters using openSCAD and the Prusa Mini+ 3D printer.
+Welcome to Project X.X, where you will embark on an exciting journey to explore the world of 3D printing and slicing settings. Your task is to create a series of 3D printed prototypes, each demonstrating a unique texture or finish achieved through meticulous adjustment of slicing parameters using openSCAD and the Prusa Mini+ 3D printer with Prusa Slicer.
 
 ## Constraints:
-- Your prototype must incorporate a 3D printed piece designed in openSCAD.
-- Your prototype and project are due in [insert number] weeks.
+- Your prototypes and documentation are due in [insert number] weeks.
+- You must use flex filament 
+- You must use at least 3 different filament materials'
+- One of your prints must be on a medium such as sticky paper or fabric  
 
 ## Functional Requirements:
 - Design and 3D print a series of at least six prototypes, each showcasing distinct textures or finishes.
 - Experiment with different infill patterns, layer heights, and slicing settings for each prototype to achieve desired textures.
 - Explore the use of multiple filament types, including standard and flexible filaments, to enhance texture variety.
-- Implement generative supports and other advanced slicing techniques where applicable.
+- Utilize generative supports and or other advanced slicing techniques.
 - Test and fine-tune slicing settings to ensure optimal print quality and texture fidelity.
 - Experiment with printing on different mediums, such as sticky paper or standard paper, to enhance visual and tactile experiences.
 
@@ -35,4 +37,4 @@ Evaluation will be conducted on a 0 to 9 point scale, focusing on:
 - Mastery of slicing settings demonstrated through diverse textures.
 - Overall presentation, creativity, and innovation showcased in the prototypes.
 
-Through Project X.X, you will not only deepen your understanding of 3D printing technology and design principles but also refine your ability to optimize slicing settings for specific texture goals. This project will be a testament to your creativity and technical prowess in the realm of additive manufacturing.
+Through Project X.X, you will not only deepen your understanding of 3D printing technology and design principles but also refine your ability to optimize slicing settings for specific texture goals.
