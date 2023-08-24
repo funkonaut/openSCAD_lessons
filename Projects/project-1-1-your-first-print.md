@@ -5,6 +5,12 @@
 Welcome to your first hands-on project in 3D printing! In this project, you'll be using the Prusa Mini+ 3D printer and a model of your choice from an online repository. You'll learn about the process of downloading, setting up, and finally printing a 3D model. This project will help you understand the basics of 3D printing technology, and give you the confidence to progress to more complex prints in the future.
 <br><br>
 
+## Online Repository:
+Below is a list of webpages you can use to download 3D model files:
+- [Thingiverse](https://www.thingiverse.com/)
+- [Printables](https://www.printables.com/)
+
+
 ## Constraints: 
 - For this project, choose a relatively simple model from the online repository. You're just getting started, so we don't want to dive into the deep end too quickly. The model should not exceed a printing time of 2 hours.
 - As you gain confidence with the 3D printer, we will move onto designing your own models in openSCAD, but for now, focus on understanding the printing process.

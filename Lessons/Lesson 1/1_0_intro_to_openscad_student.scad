@@ -31,4 +31,4 @@ cube([1,1,1]);
 //You can change the view projection using ctrl + 4 through 9
 //Once completed comment out the code with a single line comment
 
-//TO DO: Make a larger cube render it, export it as an stl, and email it to the teacher
+//TO DO: Make a larger cube render it, export it as an stl, and 3D print it!
