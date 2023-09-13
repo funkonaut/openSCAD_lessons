@@ -16,6 +16,6 @@
 //Make a cone!
 
 //Practice: 
-//Make a stair step 
+//Make 4 stair steps 
 
 //Make a top

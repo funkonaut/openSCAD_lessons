@@ -58,7 +58,7 @@ cylinder(r1=.3,r2=5,h=4,center=true);
 cylinder(r=.3,h=6);
 */
 
-//Make a stair step 
+//Make a group of 4 stair steps 
 /*
 cube([4,5,1]);
 cube([3,5,2]);

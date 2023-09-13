@@ -20,4 +20,4 @@
 <br><br>
 
 ## Rubric:
-Projects are graded on a 0 to 9 point scale as determined by the class project rubric.
+Projects are graded on a 0 to 9 point scale. Grading will be based on how well your prototype meets the identified problem, the effectiveness of the solution, the complexity and originality of the design, and the quality of your documentation.

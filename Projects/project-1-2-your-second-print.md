@@ -8,7 +8,6 @@
 ## Constraints: 
 - Your prototype must incorporate a 3D printed piece.
 - You must utilize a 3D model from an online repository and adapt it for your purpose.
-- Your prototype and project are due in 3 weeks.
 <br><br>
 
 ## Functional Requirements:
@@ -22,4 +21,4 @@
 <br><br>
 
 ## Rubric:
-Projects are graded on a 0 to 9 point scale as determined by the class project rubric. Grading will be based on how well your prototype meets the identified problem, the effectiveness of the solution, the complexity and originality of the design, and the quality of your documentation.
+Projects are graded on a 0 to 9 point scale. Grading will be based on how well your prototype meets the identified problem, the effectiveness of the solution, the complexity and originality of the design, and the quality of your documentation.

@@ -20,4 +20,4 @@
 ## Suggested Timeline and Milestones
 
 ## Rubric
-Projects are graded on a 0 to 9 point scale as determined by the class project rubric.
+

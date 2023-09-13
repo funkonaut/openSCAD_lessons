@@ -35,6 +35,7 @@ You can navigate using the `cd` command, which stands for "change directory." Us
 ```
 # Let's start in the user's home directory
 cd ~
+
 # Change into the "Documents" folder
 cd Documents
 
@@ -50,7 +51,7 @@ cd ~
 # Print the current directory after returning to the home directory
 echo "Current Directory:"
 pwd
-
+```
 
 ### Listing Files and Folders
 The `ls` command stands for "list" and shows the files and folders in the current directory. By default, it displays a table with attributes, last write time, file size, and names. Use `-n`, `-ad`, or `-af` flags to filter and display only names or directories.
@@ -59,7 +60,40 @@ The `ls` command stands for "list" and shows the files and folders in the curren
 PowerShell supports autocompletion using the tab key. Pressing tab will cycle through the files in the directory you are located in based upon what you type. It will also add quotes around paths to files that have spaces. You can also use wildcards like `*` (matching zero or more characters) and `?` (matching a single character) for pattern-based searching.
 
 ### Copying, Moving, Creating, and Removing Files and Folders
-Use commands like `mv`, `cp`, `mkdir`, `rm`, and `rmdir` to manipulate files and folders. Be cautious when using these commands, as they can delete data permanently.
+Use commands like `mv`, `cp`, `mkdir`, `rm`, and `rmdir` to manipulate files and folders. Be cautious when using these commands, as they can delete data permanently. For instance try out the following:
+```
+# Let's start in the user's home directory
+cd ~
+
+# Change into the "Documents" folder
+cd Documents
+
+# Create a new directory called "SampleFolder"
+mkdir SampleFolder
+
+# List the contents of "SampleFolder" it will be empty
+ls .\SampleFolder
+
+# Copy a file from downloads
+
+# Move "File1.txt" to a new location "SampleFolder\SubFolder1"
+mv .\SampleFolder\File1.txt .\SampleFolder\SubFolder1\File1.txt
+
+# Copy "File2.txt" to a new location "SampleFolder\SubFolder2"
+cp .\SampleFolder\File2.txt .\SampleFolder\SubFolder2\File2.txt
+
+# List the contents of "SampleFolder" to see the changes after moving and copying
+ls .\SampleFolder
+
+# Remove "File1.txt" from "SampleFolder"
+rm .\SampleFolder\SubFolder1\File1.txt
+
+# Remove "SubFolder1" from "SampleFolder"
+rmdir .\SampleFolder\SubFolder1
+
+# List the contents of "SampleFolder" after the removal
+ls .\SampleFolder
+```
 
 ### Input, Output, and Piping
 Commands in PowerShell can take input, produce output, and be connected using pipes (`|`). You can use `echo` to display text, `>` to redirect output to a file, and `|` to send the output of one command as input to another.
