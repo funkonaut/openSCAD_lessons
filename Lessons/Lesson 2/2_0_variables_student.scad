@@ -5,9 +5,6 @@
 //This is a variable it has two components, a name, var, and an assignment of value, 10, variables can not have spaces and must start with letters
 var = 10;
 
-
-//Declare a variable "res" and make the global resolution equal to it
-
 //Declare three variables w, l, h
 
 //Make a centered cube with the variables
