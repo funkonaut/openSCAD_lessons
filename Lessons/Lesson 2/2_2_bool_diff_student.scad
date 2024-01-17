@@ -10,15 +10,15 @@ cube([10, 10, 10]);
 cylinder(h=10,r=2);
 }
 
-//Take two holes out of a sphere, they can be anywhere as long as they are not overlapping and are fully cutting through the sphere
+//1. Take two holes out of a sphere, they can be anywhere as long as they are not overlapping and are fully cutting through the sphere
 
-//Take two holes out of a cube, one in the middle and one touching the edge
+//2. Take two holes out of a cube, one in the middle and one touching the edge
 
-//Make a box without a lid
+//3. Make a box without a lid
 
-//Make a cup
+//4. Make a cup
 
-//Make a quarter slice of pizza (a quarter of a cylinder)
+//5. Make a quarter slice of pizza (a quarter of a cylinder)
 
-//Bonus parameterize your cup or box
+//Bonus: Parameterize (use variables instead of numbers) your cup or box
 

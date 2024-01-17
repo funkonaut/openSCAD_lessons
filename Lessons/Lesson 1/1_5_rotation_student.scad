@@ -1,6 +1,6 @@
-// Author: ChatGPT
-// Date: 2023-06-14
-// Description: Understanding the rotate command in OpenSCAD
+// Author: 
+// Date: 
+// Description: 
 
 /*
 Rotating a 3D Model
